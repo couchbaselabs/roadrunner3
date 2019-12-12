@@ -1,0 +1,8 @@
+connectionString = "couchbase://127.0.0.1"
+username = "Administrator"
+password = "password"
+bucket = "travel-sample"
+
+numThreads = 1
+warmupDuration = "10s"
+runDuration = "60s"

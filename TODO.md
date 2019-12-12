@@ -1,0 +1,6 @@
+- add generic workloads
+    - make workload also configurable through toml file
+- add infos
+- add those infos to output
+- do json output
+- do html output
